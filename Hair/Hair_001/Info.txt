@@ -22,6 +22,7 @@ Texture Creation
 Material Setup
 ↓
 ZEPETO Studio Integration
+
 Polygon:
 5231 tris
 
