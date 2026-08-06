@@ -1,0 +1,37 @@
+Asset Name:
+RHD-HAIR-2025-0004
+
+Creator:
+Ricky Rahardo
+
+Software:
+Autodesk Maya 2023
+Blender 5.1.2
+
+Pipeline:
+Concept Design
+↓
+Modeling (Maya 2023)
+↓
+Retopology & Optimization (Blender 5.1.2)
+↓
+UV Mapping
+↓
+Texture Creation
+↓
+Material Setup
+↓
+ZEPETO Studio Integration
+
+Polygon:
+4210 tris
+
+Texture:
+512x512 PNG
+
+Status:
+Original Creation
+
+Copyright:
+© 2026 Ricky Rahardo
+All rights reserved.
